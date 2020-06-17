@@ -1,0 +1,17 @@
+{
+    "name": "kylebjohnson/woocommerce-tax-report",
+    "authors": [
+        {
+            "name": "Kyle B. Johnson",
+            "email": "kbjohnson90@gmail.com"
+        }
+    ],
+    "require": {
+        "league/csv": "^9.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Yarnell\\WooCommerceTaxReport\\": "src/"
+        }
+    }
+}
